@@ -1,3 +1,37 @@
+# UI Test Project
+
+A modern gaming platform UI built with Next.js, TypeScript, and Tailwind CSS.
+
+## Overview
+
+This project is a UI implementation for a gaming platform that includes various components such as:
+
+-  Hero slider with animated transitions
+-  Game categories and listings
+-  Exclusive games section
+-  Responsive footer with collapsible sections
+-  Mobile-friendly navigation
+
+## Screenshots
+
+### Desktop View
+![Desktop View](./public/PC.png)
+
+### Mobile View
+![Mobile View](./public/Mobile.png)
+
+## Tech Stack
+
+-  [Next.js](https://nextjs.org/) - React framework
+-  [TypeScript](https://www.typescriptlang.org/) - Type safety
+-  [Tailwind CSS](https://tailwindcss.com/) - Utility-first CSS
+-  [Framer Motion](https://www.framer.com/motion/) - Animation library
+-  [Redux Toolkit](https://redux-toolkit.js.org/) - State management
+-  [Radix UI](https://www.radix-ui.com/) - Headless UI components
+-  [Lucide React](https://lucide.dev/) - Icon library
+
+## Project Structure
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -24,8 +58,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-  [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-  [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
