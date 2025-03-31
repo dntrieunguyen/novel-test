@@ -2,6 +2,10 @@
 
 A modern gaming platform UI built with Next.js, TypeScript, and Tailwind CSS.
 
+## Demo
+
+Check out the live demo: [UI Test Demo](https://novel-test-mrtj.onrender.com)
+
 ## Overview
 
 This project is a UI implementation for a gaming platform that includes various components such as:
@@ -15,9 +19,11 @@ This project is a UI implementation for a gaming platform that includes various 
 ## Screenshots
 
 ### Desktop View
+
 ![Desktop View](./public/PC.png)
 
 ### Mobile View
+
 ![Mobile View](./public/Mobile.png)
 
 ## Tech Stack
