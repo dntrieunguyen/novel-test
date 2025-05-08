@@ -4,16 +4,7 @@ import { Button } from '@/components/ui/button';
 import { ChevronRight } from 'lucide-react';
 import React from 'react';
 import ContainerButton from '../ContainerButton';
-
-interface Provider {
-   id: string;
-   name: string;
-   logo: React.ReactNode;
-}
-
-interface AllProvidersProps {
-   providers: Provider[];
-}
+import { AllProvidersProps } from '@/type/ui/all-provider';
 
 export default function AllProviders({ providers = [] }: AllProvidersProps) {
    return (
